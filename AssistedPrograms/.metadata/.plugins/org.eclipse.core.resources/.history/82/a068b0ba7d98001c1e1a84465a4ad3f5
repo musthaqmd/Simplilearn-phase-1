@@ -1,0 +1,15 @@
+package assessSpecifier;
+
+class defAccessSpecifier
+{ 
+  void display() 
+     { 
+         System.out.println("You are using defalut access specifier"); 
+     }
+
+public void display() {
+	System.out.println("You are using defalut access specifier"); 
+} 
+} 
+
+

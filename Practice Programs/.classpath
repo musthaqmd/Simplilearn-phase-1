@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Arithmetic calculator/src"/>
+	<classpathentry kind="src" path="File Handling/src"/>
+	<classpathentry kind="src" path="Longest Increasing Subsequence/src"/>
+	<classpathentry kind="src" path="Validation of an Email ID/src"/>
+	<classpathentry kind="output" path="Arithmetic calculator/bin"/>
+</classpath>
